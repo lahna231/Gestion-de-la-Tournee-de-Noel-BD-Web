@@ -21,7 +21,7 @@ Ce projet a été réalisé dans le cadre d’un travail universitaire. Il met e
 - **CSS**  
   Utilisé pour le design de l’interface utilisateur : mise en page, couleurs, responsive design, et amélioration de l’expérience utilisateur.
 
-- **Oracle Database**  
+- **Oracle **  
   La base de données utilisée pour stocker les informations du projet : utilisateurs, événements, réservations, etc.
 
 - **OCI8 (Oracle Call Interface for PHP)**  
