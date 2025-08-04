@@ -8,7 +8,7 @@
 
 ## Description du projet
 
-Ce projet a été réalisé dans le cadre d’un travail universitaire. Il met en œuvre plusieurs technologies web pour la création d’une application dynamique connectée à une base de données Oracle.
+Ce projet a été réalisé dans le cadre d’un travail universitaire. Il met en œuvre plusieurs technologies web pour la création d’une application connectée à une base de données Oracle.
 
 ## Technologies utilisées
 
